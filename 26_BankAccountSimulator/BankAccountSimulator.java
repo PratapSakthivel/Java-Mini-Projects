@@ -3,6 +3,12 @@
 
 import java.util.*;
 
+/**
+ * Deposit and withdraw simulation
+ *
+ * @author PratapSakthivel
+ * @version 1.0
+ */
 public class BankAccountSimulator {
     public static void main(String[] a) {
         Scanner s=new Scanner(System.in);
