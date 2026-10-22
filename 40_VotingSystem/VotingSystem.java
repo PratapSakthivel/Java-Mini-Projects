@@ -3,6 +3,12 @@
 
 import java.util.*;
 
+/**
+ * Counts candidate votes
+ *
+ * @author PratapSakthivel
+ * @version 1.0
+ */
 public class VotingSystem {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
