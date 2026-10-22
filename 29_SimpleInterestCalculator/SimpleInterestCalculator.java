@@ -3,6 +3,12 @@
 
 import java.util.*;
 
+/**
+ * Calculates simple interest
+ *
+ * @author PratapSakthivel
+ * @version 1.0
+ */
 public class SimpleInterestCalculator {
     public static void main(String[] args) {
         List<String> data=new ArrayList<>(Arrays.asList("Java","SQL","Git"));
