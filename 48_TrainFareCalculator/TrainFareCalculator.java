@@ -3,6 +3,12 @@
 
 import java.util.*;
 
+/**
+ * Calculates fare by distance
+ *
+ * @author PratapSakthivel
+ * @version 1.0
+ */
 public class TrainFareCalculator {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
