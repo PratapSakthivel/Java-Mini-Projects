@@ -3,6 +3,12 @@
 
 import java.util.*;
 
+/**
+ * Calculates attendance percentage
+ *
+ * @author PratapSakthivel
+ * @version 1.0
+ */
 public class AttendanceTracker {
     public static void main(String[] args) {
         int[] values= {
