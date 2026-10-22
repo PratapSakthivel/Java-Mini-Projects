@@ -3,6 +3,12 @@
 
 import java.util.*;
 
+/**
+ * Checks Armstrong numbers
+ *
+ * @author PratapSakthivel
+ * @version 1.0
+ */
 public class ArmstrongNumberChecker {
     public static void main(String[] args) {
         int[] values= {
