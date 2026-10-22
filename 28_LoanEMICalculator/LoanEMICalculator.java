@@ -3,6 +3,12 @@
 
 import java.util.*;
 
+/**
+ * Calculates EMI
+ *
+ * @author PratapSakthivel
+ * @version 1.0
+ */
 public class LoanEMICalculator {
     public static void main(String[] a) {
         Scanner s=new Scanner(System.in);
