@@ -3,6 +3,12 @@
 
 import java.util.*;
 
+/**
+ * Validates email format
+ *
+ * @author PratapSakthivel
+ * @version 1.0
+ */
 public class RegexEmailValidator {
     public static void main(String[] a) {
         Scanner s=new Scanner(System.in);
