@@ -3,6 +3,12 @@
 
 import java.util.*;
 
+/**
+ * PIN-based ATM simulation
+ *
+ * @author PratapSakthivel
+ * @version 1.0
+ */
 public class ATMSimulator {
     public static void main(String[] args) {
         int[] values= {
