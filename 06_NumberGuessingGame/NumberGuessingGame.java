@@ -3,6 +3,12 @@
 
 import java.util.*;
 
+/**
+ * Guess a random number
+ *
+ * @author PratapSakthivel
+ * @version 1.0
+ */
 public class NumberGuessingGame {
     public static void main(String[] a) {
         Scanner s=new Scanner(System.in);
