@@ -3,6 +3,12 @@
 
 import java.util.*;
 
+/**
+ * Calculates water bill
+ *
+ * @author PratapSakthivel
+ * @version 1.0
+ */
 public class WaterBillCalculator {
     public static void main(String[] args) {
         Map<String,Integer> data=new LinkedHashMap<>();
