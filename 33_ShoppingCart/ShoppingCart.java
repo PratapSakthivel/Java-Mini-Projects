@@ -3,6 +3,12 @@
 
 import java.util.*;
 
+/**
+ * Adds items and calculates total
+ *
+ * @author PratapSakthivel
+ * @version 1.0
+ */
 public class ShoppingCart {
     public static void main(String[] args) {
         List<String> data=new ArrayList<>(Arrays.asList("Java","SQL","Git"));
