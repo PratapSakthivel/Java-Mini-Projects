@@ -3,6 +3,12 @@
 
 import java.util.*;
 
+/**
+ * Checks whether two strings are anagrams
+ *
+ * @author PratapSakthivel
+ * @version 1.0
+ */
 public class AnagramChecker {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
