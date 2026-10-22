@@ -3,6 +3,12 @@
 
 import java.util.concurrent.*;
 
+/**
+ * Demonstrates thread coordination
+ *
+ * @author PratapSakthivel
+ * @version 1.0
+ */
 public class ProducerConsumerDemo {
     public static void main(String[] a)throws Exception {
         BlockingQueue<Integer> q=new ArrayBlockingQueue<>(3);
