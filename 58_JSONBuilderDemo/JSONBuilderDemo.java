@@ -3,6 +3,12 @@
 
 import java.util.*;
 
+/**
+ * Builds JSON text without libraries
+ *
+ * @author PratapSakthivel
+ * @version 1.0
+ */
 public class JSONBuilderDemo {
     public static void main(String[] args) {
         Map<String,Integer> data=new LinkedHashMap<>();
