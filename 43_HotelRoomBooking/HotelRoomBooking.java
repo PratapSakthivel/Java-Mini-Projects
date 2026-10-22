@@ -3,6 +3,12 @@
 
 import java.util.*;
 
+/**
+ * Books hotel rooms
+ *
+ * @author PratapSakthivel
+ * @version 1.0
+ */
 public class HotelRoomBooking {
     public static void main(String[] args) {
         int[] values= {
