@@ -3,6 +3,12 @@
 
 import java.util.*;
 
+/**
+ * Play against the computer
+ *
+ * @author PratapSakthivel
+ * @version 1.0
+ */
 public class RockPaperScissors {
     public static void main(String[] args) {
         int[] values= {
