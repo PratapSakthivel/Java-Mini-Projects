@@ -3,6 +3,12 @@
 
 import java.util.*;
 
+/**
+ * Analyzes a sample text file
+ *
+ * @author PratapSakthivel
+ * @version 1.0
+ */
 public class FileTextAnalyzer {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
