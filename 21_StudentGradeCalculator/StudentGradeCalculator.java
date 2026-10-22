@@ -3,6 +3,12 @@
 
 import java.util.*;
 
+/**
+ * Calculates grade from marks
+ *
+ * @author PratapSakthivel
+ * @version 1.0
+ */
 public class StudentGradeCalculator {
     public static void main(String[] a) {
         Scanner s=new Scanner(System.in);
