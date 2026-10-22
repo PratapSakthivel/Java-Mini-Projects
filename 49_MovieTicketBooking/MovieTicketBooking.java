@@ -3,6 +3,12 @@
 
 import java.util.*;
 
+/**
+ * Books movie tickets
+ *
+ * @author PratapSakthivel
+ * @version 1.0
+ */
 public class MovieTicketBooking {
     public static void main(String[] args) {
         List<String> data=new ArrayList<>(Arrays.asList("Java","SQL","Git"));
