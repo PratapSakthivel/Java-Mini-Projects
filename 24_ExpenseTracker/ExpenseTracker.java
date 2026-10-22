@@ -3,6 +3,12 @@
 
 import java.util.*;
 
+/**
+ * Tracks simple expenses
+ *
+ * @author PratapSakthivel
+ * @version 1.0
+ */
 public class ExpenseTracker {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
