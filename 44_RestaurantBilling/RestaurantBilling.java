@@ -3,6 +3,12 @@
 
 import java.util.*;
 
+/**
+ * Calculates restaurant bill
+ *
+ * @author PratapSakthivel
+ * @version 1.0
+ */
 public class RestaurantBilling {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
