@@ -3,6 +3,12 @@
 
 import java.util.*;
 
+/**
+ * Performs basic arithmetic
+ *
+ * @author PratapSakthivel
+ * @version 1.0
+ */
 public class SimpleCalculator {
     public static void main(String[] a) {
         Scanner s=new Scanner(System.in);
