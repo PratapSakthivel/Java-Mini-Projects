@@ -3,6 +3,12 @@
 
 import java.util.concurrent.*;
 
+/**
+ * Runs tasks with ExecutorService
+ *
+ * @author PratapSakthivel
+ * @version 1.0
+ */
 public class ThreadPoolDemo {
     public static void main(String[] a)throws Exception {
         ExecutorService ex=Executors.newFixedThreadPool(3);
