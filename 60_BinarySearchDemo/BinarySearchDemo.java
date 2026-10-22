@@ -3,6 +3,12 @@
 
 import java.util.*;
 
+/**
+ * Performs binary search
+ *
+ * @author PratapSakthivel
+ * @version 1.0
+ */
 public class BinarySearchDemo {
     public static void main(String[] a) {
         int[] x= {
