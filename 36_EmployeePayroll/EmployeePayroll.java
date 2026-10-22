@@ -3,6 +3,12 @@
 
 import java.util.*;
 
+/**
+ * Calculates net salary
+ *
+ * @author PratapSakthivel
+ * @version 1.0
+ */
 public class EmployeePayroll {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
