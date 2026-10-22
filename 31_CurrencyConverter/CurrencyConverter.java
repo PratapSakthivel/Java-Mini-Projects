@@ -3,6 +3,12 @@
 
 import java.util.*;
 
+/**
+ * Converts INR and USD using sample rate
+ *
+ * @author PratapSakthivel
+ * @version 1.0
+ */
 public class CurrencyConverter {
     public static void main(String[] args) {
         int[] values= {
