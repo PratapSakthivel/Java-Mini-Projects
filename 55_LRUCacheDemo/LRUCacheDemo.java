@@ -3,6 +3,12 @@
 
 import java.util.*;
 
+/**
+ * Demonstrates an LRU cache
+ *
+ * @author PratapSakthivel
+ * @version 1.0
+ */
 public class LRUCacheDemo {
     static class LRU<K,V> extends LinkedHashMap<K,V> {
         private final int cap;
