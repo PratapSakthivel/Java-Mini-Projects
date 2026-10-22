@@ -3,6 +3,12 @@
 
 import java.util.*;
 
+/**
+ * Calculates compound interest
+ *
+ * @author PratapSakthivel
+ * @version 1.0
+ */
 public class CompoundInterestCalculator {
     public static void main(String[] args) {
         Map<String,Integer> data=new LinkedHashMap<>();
