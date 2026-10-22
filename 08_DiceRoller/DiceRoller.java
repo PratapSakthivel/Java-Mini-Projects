@@ -3,6 +3,12 @@
 
 import java.util.*;
 
+/**
+ * Simulates dice rolls
+ *
+ * @author PratapSakthivel
+ * @version 1.0
+ */
 public class DiceRoller {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
