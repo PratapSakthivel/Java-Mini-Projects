@@ -3,6 +3,12 @@
 
 import java.util.*;
 
+/**
+ * Converts Celsius and Fahrenheit
+ *
+ * @author PratapSakthivel
+ * @version 1.0
+ */
 public class TemperatureConverter {
     public static void main(String[] args) {
         int[] values= {
