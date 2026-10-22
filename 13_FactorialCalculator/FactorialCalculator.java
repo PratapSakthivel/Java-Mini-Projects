@@ -3,6 +3,12 @@
 
 import java.util.*; import java.math.*;
 
+/**
+ * Calculates factorial
+ *
+ * @author PratapSakthivel
+ * @version 1.0
+ */
 public class FactorialCalculator {
     public static void main(String[] a) {
         Scanner s=new Scanner(System.in);
