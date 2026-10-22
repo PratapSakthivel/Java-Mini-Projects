@@ -3,6 +3,12 @@
 
 import java.util.*;
 
+/**
+ * Checks whether a number is prime
+ *
+ * @author PratapSakthivel
+ * @version 1.0
+ */
 public class PrimeNumberChecker {
     static boolean prime(int n) {
         if(n<2)return false;
