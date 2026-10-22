@@ -3,6 +3,12 @@
 
 import java.util.*;
 
+/**
+ * Reserves bus seats
+ *
+ * @author PratapSakthivel
+ * @version 1.0
+ */
 public class BusReservation {
     public static void main(String[] args) {
         int[] values= {
