@@ -3,6 +3,12 @@
 
 import java.util.*;
 
+/**
+ * Checks spending against budget
+ *
+ * @author PratapSakthivel
+ * @version 1.0
+ */
 public class BudgetPlanner {
     public static void main(String[] args) {
         List<String> data=new ArrayList<>(Arrays.asList("Java","SQL","Git"));
