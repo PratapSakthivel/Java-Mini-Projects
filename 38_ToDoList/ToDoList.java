@@ -3,6 +3,12 @@
 
 import java.util.*;
 
+/**
+ * Adds and completes tasks
+ *
+ * @author PratapSakthivel
+ * @version 1.0
+ */
 public class ToDoList {
     public static void main(String[] a) {
         Scanner s=new Scanner(System.in);
