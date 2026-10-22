@@ -3,6 +3,12 @@
 
 import java.util.*;
 
+/**
+ * Runs a multiple-choice quiz
+ *
+ * @author PratapSakthivel
+ * @version 1.0
+ */
 public class QuizApplication {
     public static void main(String[] a) {
         Scanner s=new Scanner(System.in);
