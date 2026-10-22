@@ -3,6 +3,12 @@
 
 import java.util.*;
 
+/**
+ * Counts INFO/WARN/ERROR log levels
+ *
+ * @author PratapSakthivel
+ * @version 1.0
+ */
 public class LogAnalyzer {
     public static void main(String[] args) {
         Map<String,Integer> data=new LinkedHashMap<>();
