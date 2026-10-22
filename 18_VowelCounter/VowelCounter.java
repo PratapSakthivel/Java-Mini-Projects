@@ -3,6 +3,12 @@
 
 import java.util.*;
 
+/**
+ * Counts vowels
+ *
+ * @author PratapSakthivel
+ * @version 1.0
+ */
 public class VowelCounter {
     public static void main(String[] args) {
         Map<String,Integer> data=new LinkedHashMap<>();
