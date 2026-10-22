@@ -2,4 +2,13 @@
 // Calculates net salary
 
 import java.util.*;
-public class EmployeePayroll { public static void main(String[] args) { Scanner sc=new Scanner(System.in); System.out.println("Calculates net salary"); System.out.print("Enter a value: "); String input=sc.nextLine(); System.out.println("Processed: "+input.trim()); } }
+
+public class EmployeePayroll {
+    public static void main(String[] args) {
+        Scanner sc=new Scanner(System.in);
+        System.out.println("Calculates net salary");
+        System.out.print("Enter a value: ");
+        String input=sc.nextLine();
+        System.out.println("Processed: "+input.trim());
+    }
+}
