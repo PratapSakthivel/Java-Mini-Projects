@@ -3,6 +3,12 @@
 
 import java.util.*;
 
+/**
+ * Tracks parking slots
+ *
+ * @author PratapSakthivel
+ * @version 1.0
+ */
 public class ParkingLotManager {
     public static void main(String[] args) {
         Map<String,Integer> data=new LinkedHashMap<>();
