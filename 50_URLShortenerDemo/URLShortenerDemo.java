@@ -3,6 +3,12 @@
 
 import java.util.*;
 
+/**
+ * Creates deterministic short codes
+ *
+ * @author PratapSakthivel
+ * @version 1.0
+ */
 public class URLShortenerDemo {
     public static void main(String[] args) {
         Map<String,Integer> data=new LinkedHashMap<>();
