@@ -3,6 +3,12 @@
 
 import java.util.*;
 
+/**
+ * Generates a random password
+ *
+ * @author PratapSakthivel
+ * @version 1.0
+ */
 public class PasswordGenerator {
     public static void main(String[] args) {
         Map<String,Integer> data=new LinkedHashMap<>();
