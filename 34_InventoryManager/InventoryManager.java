@@ -3,6 +3,12 @@
 
 import java.util.*;
 
+/**
+ * Tracks product stock
+ *
+ * @author PratapSakthivel
+ * @version 1.0
+ */
 public class InventoryManager {
     public static void main(String[] args) {
         Map<String,Integer> data=new LinkedHashMap<>();
