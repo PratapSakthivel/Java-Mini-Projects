@@ -3,6 +3,12 @@
 
 import java.util.*;
 
+/**
+ * Reads student CSV data
+ *
+ * @author PratapSakthivel
+ * @version 1.0
+ */
 public class CSVStudentReader {
     public static void main(String[] args) {
         List<String> data=new ArrayList<>(Arrays.asList("Java","SQL","Git"));
