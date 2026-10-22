@@ -3,6 +3,12 @@
 
 import java.util.*;
 
+/**
+ * Stores and searches contacts
+ *
+ * @author PratapSakthivel
+ * @version 1.0
+ */
 public class ContactBook {
     public static void main(String[] args) {
         List<String> data=new ArrayList<>(Arrays.asList("Java","SQL","Git"));
