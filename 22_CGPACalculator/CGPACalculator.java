@@ -3,6 +3,12 @@
 
 import java.util.*;
 
+/**
+ * Calculates CGPA average
+ *
+ * @author PratapSakthivel
+ * @version 1.0
+ */
 public class CGPACalculator {
     public static void main(String[] a) {
         Scanner s=new Scanner(System.in);
