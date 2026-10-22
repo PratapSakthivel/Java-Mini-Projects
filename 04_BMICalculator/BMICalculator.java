@@ -3,6 +3,12 @@
 
 import java.util.*;
 
+/**
+ * Calculates BMI category
+ *
+ * @author PratapSakthivel
+ * @version 1.0
+ */
 public class BMICalculator {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
