@@ -3,6 +3,12 @@
 
 import java.util.*;
 
+/**
+ * Finds duplicate characters
+ *
+ * @author PratapSakthivel
+ * @version 1.0
+ */
 public class DuplicateCharacterFinder {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
